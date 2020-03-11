@@ -2,8 +2,7 @@
 .id
 deploy/cluster.yaml
 .bin/
-
-
+.env*
 .idea
 tmp
 # Temporary Build Files
